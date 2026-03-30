@@ -1,35 +1,55 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/20Josy07/lyrics-Generator/main/banner.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/20Josy07/Lyrics-Generator/main/banner.png" alt="Banner" width="100%">
 </p>
 
-# 🎵 Lyrics Generator
+<h1 align="center">🎵 Lyrics Generator</h1>
 
-### Transforma tus versos favoritos en obras de arte visual.
+<p align="center">
+  <b>Transform your favorite verses into stunning visual masterpieces.</b>
+</p>
 
-Lyrics Generator es la herramienta definitiva para convertir la letra de cualquier canción en una pieza visual única, diseñada para compartir tu estilo y tu música en redes sociales.
-
----
-
-## 🚀 Características principales
-- **Generación impulsada por IA:** Crea arte visual a partir de letras en segundos.
-- **Búsqueda inteligente:** Encuentra canciones, artistas o versos específicos al instante.
-- **Diseño Personalizable:** Ajusta estilos, colores, dimensiones y añade la identidad de tu música.
-- **Experiencia Nativa:** Interfaz construida con Material Design 3, adaptándose a los colores de tu sistema (Material You) y al modo claro/oscuro.
-- **Soporte Bilingüe:** Totalmente disponible en inglés y español.
-
-## 🛠 Especificaciones Técnicas
-- **Desarrollo:** Java
-- **UI:** Material Design 3 (Material You)
-- **Integración de APIs:** Deezer & LrcLib
-- **Carga de imágenes:** Glide
-- **Sincronización:** Soporte nativo para Splash Screen API y Material Motion.
-
-## 📱 Flujo de la Aplicación
-1. **Splash Screen:** Animación de carga fluida con logo animado.
-2. **Onboarding:** Bienvenida intuitiva (solo en la primera ejecución).
-3. **Búsqueda:** Interfaz dinámica para localizar tu canción.
-4. **Editor:** Personalización total del arte antes de compartir.
+<p align="center">
+  <a href="https://github.com/20Josy07/Lyrics-Generator/releases/latest">
+    <img src="https://img.shields.io/github/v/release/20Josy07/Lyrics-Generator?style=for-the-badge&logo=github&color=1DB954" alt="Release">
+  </a>
+  <a href="https://github.com/20Josy07/Lyrics-Generator/releases/latest">
+    <img src="https://img.shields.io/badge/Download%20APK-1DB954?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
 
 ---
 
-Copyright © 2026 Lyrics Generator. Todos los derechos reservados.
+## ✨ Description
+**Lyrics Generator** is the ultimate tool to turn any song's lyrics into a unique visual piece, designed to share your style and music on social media.
+
+## 🚀 Key Features
+- 🤖 **AI-Powered Generation:** Create visual art from lyrics in seconds.
+- 🔍 **Smart Search:** Instantly find songs, artists, or specific verses.
+- 🎨 **Customizable Design:** Adjust styles, colors, dimensions, and add your music identity.
+- 📱 **Native Experience:** Built with **Material Design 3**, adapting to your system colors (**Material You**) and light/dark mode.
+- 🌐 **Bilingual Support:** Available in English and Spanish.
+
+---
+
+## 🛠 Technical Specifications
+| Feature | Detail |
+| :--- | :--- |
+| **Development** | Java |
+| **UI** | Material Design 3 (Material You) |
+| **APIs** | Deezer & LrcLib |
+| **Image Loading** | Glide |
+| **Synchronization** | Splash Screen API & Material Motion |
+
+---
+
+## 📱 App Flow
+1. **Splash Screen:** Fluid loading animation.
+2. **Onboarding:** Intuitive welcome screen (first run only).
+3. **Search:** Dynamic interface to locate your song.
+4. **Editor:** Full customization of the art before sharing.
+
+---
+
+<p align="center">
+  Copyright © 2026 Lyrics Generator. All rights reserved.
+</p>
