@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------
 <p align="center">
-  <img src="https://raw.githubusercontent.com/20Josy07/lyrics-Generator/main/screenshots/banner.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/20Josy07/lyrics-Generator/main/banner.png" alt="Banner">
 </p>
 ----------------------------------------------------------------------
 
