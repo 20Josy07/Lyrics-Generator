@@ -32,4 +32,4 @@ Lyrics Generator es la herramienta definitiva para convertir la letra de cualqui
 
 ---
 
-Copyright © 2024 Lyrics Generator. Todos los derechos reservados.
+Copyright © 2026 Lyrics Generator. Todos los derechos reservados.
