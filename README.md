@@ -1,10 +1,8 @@
-# 🎵 Lyrics Generator
-
-----------------------------------------------------------------------
 <p align="center">
   <img src="https://raw.githubusercontent.com/20Josy07/lyrics-Generator/main/banner.png" alt="Banner">
 </p>
-----------------------------------------------------------------------
+
+# 🎵 Lyrics Generator
 
 ### Transforma tus versos favoritos en obras de arte visual.
 
