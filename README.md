@@ -1,7 +1,9 @@
 # 🎵 Lyrics Generator
 
 ----------------------------------------------------------------------
-[[ ESPACIO PARA BANNER: Sube tu imagen y pon el enlace aquí ]](https://github.com/20Josy07/Lyrics-Generator/blob/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/20Josy07/lyrics-Generator/main/screenshots/banner.png" alt="Banner">
+</p>
 ----------------------------------------------------------------------
 
 ### Transforma tus versos favoritos en obras de arte visual.
