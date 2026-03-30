@@ -1,47 +1,35 @@
 # 🎵 Lyrics Generator
 
-<!-- AÑADE TU BANNER AQUÍ -->
-<!-- <div align="center">
-  <img src="https://tu-enlace-a-tu-imagen-de-banner.png" alt="Lyrics Generator Banner" width="100%">
-</div> -->
+----------------------------------------------------------------------
+[ ESPACIO PARA BANNER: Sube tu imagen y pon el enlace aquí ]
+----------------------------------------------------------------------
 
-<br>
+### Transforma tus versos favoritos en obras de arte visual.
 
-<div align="center">
-  <h3>Transforma tus versos favoritos en arte visual.</h3>
-  <p>Lyrics Generator es la herramienta definitiva para convertir las letras de tus canciones favoritas en obras maestras visuales perfectas para compartir en redes sociales.</p>
-</div>
+Lyrics Generator es la herramienta definitiva para convertir la letra de cualquier canción en una pieza visual única, diseñada para compartir tu estilo y tu música en redes sociales.
 
 ---
 
 ## 🚀 Características principales
-- **Generación impulsada por IA:** Crea arte visual automáticamente.
-- **Búsqueda inteligente:** Encuentra canciones, artistas o letras al instante.
-- **Personalización total:** Cambia estilos, colores, dimensiones y añade la marca de Spotify.
-- **Material You:** Interfaz adaptativa que cambia los colores según tu fondo de pantalla (Android 12+).
-- **Modo Claro/Oscuro:** Integración total con el tema del sistema.
-- **Multilenguaje:** Disponible en Inglés y Español.
+- **Generación impulsada por IA:** Crea arte visual a partir de letras en segundos.
+- **Búsqueda inteligente:** Encuentra canciones, artistas o versos específicos al instante.
+- **Diseño Personalizable:** Ajusta estilos, colores, dimensiones y añade la identidad de tu música.
+- **Experiencia Nativa:** Interfaz construida con Material Design 3, adaptándose a los colores de tu sistema (Material You) y al modo claro/oscuro.
+- **Soporte Bilingüe:** Totalmente disponible en inglés y español.
 
-## 🛠 Tecnologías utilizadas
-- **Lenguaje:** Java
-- **Arquitectura:** MVVM
+## 🛠 Especificaciones Técnicas
+- **Desarrollo:** Java
 - **UI:** Material Design 3 (Material You)
-- **Networking:** Retrofit2 & Gson
-- **Imágenes:** Glide
-- **Splash Screen:** Android Core Splashscreen API
+- **Integración de APIs:** Deezer & LrcLib
+- **Carga de imágenes:** Glide
+- **Sincronización:** Soporte nativo para Splash Screen API y Material Motion.
 
-## 📱 Flujo de la App
-1. **Splash Screen:** Animación de carga con logo artístico.
-2. **Onboarding:** Pantalla de bienvenida (solo la primera vez).
-3. **Búsqueda:** Interfaz intuitiva para encontrar tu canción.
-4. **Picker:** Selección de versos específicos.
-5. **Editor:** Personalización final y exportación.
-
-## 📝 Licencia
-Este proyecto es de código abierto. Siéntete libre de contribuir o realizar un fork.
+## 📱 Flujo de la Aplicación
+1. **Splash Screen:** Animación de carga fluida con logo animado.
+2. **Onboarding:** Bienvenida intuitiva (solo en la primera ejecución).
+3. **Búsqueda:** Interfaz dinámica para localizar tu canción.
+4. **Editor:** Personalización total del arte antes de compartir.
 
 ---
 
-<div align="center">
-  <p>Creado con ❤️ para los amantes de la música.</p>
-</div>
+Copyright © 2024 Lyrics Generator. Todos los derechos reservados.
